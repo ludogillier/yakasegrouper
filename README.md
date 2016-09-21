@@ -23,6 +23,11 @@ Il est nécessaire de s'identifier pour commander.
 
 # les distributions
 
+- aide à la distribution : Pour les producteurs, listing de tous les produits à fournir pour les prochaines distributions
+- aide à la distribution : Pour chaque distribution listing des produits par consommateur facilement imprimable. 
+- création des distribution : possibiliter de dupliquer une distribution qui sera datée une semaine plus tard.
+
+
 # les campagnes de distributions
 
 # BON DE COMMANDE PAPIER :
