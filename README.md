@@ -1,6 +1,6 @@
 # YAKASEGROUPER
 
-YAKASEGROUPER est une solution web, libre et gratuite de gestion de groupement d'achat *Producteur* <==> *Consommateur* sans intermédiaire. 
+YAKASEGROUPER est une solution web, libre et gratuite de gestion de groupement d'achat **Producteur** <==> **Consommateur** sans intermédiaire. 
 Elle permet la reservation en ligne (hors paiement pour le moment) de produits, leurs distributions, la collecte des chèques.  
 
 ## historique 
