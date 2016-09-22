@@ -34,7 +34,7 @@ Il est nécessaire de s'identifier pour commander.
 * possibilité de pouvoir imprimer un bon de commande des futurs distributions d'une campagne 
   * affichage du lien sur la page de login
     
-    
+## Personnalisation de la page d'accueil     
     
 # License
   
