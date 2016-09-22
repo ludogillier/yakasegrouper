@@ -5,8 +5,10 @@ Elle permet la reservation en ligne (hors paiement pour le moment) de produits, 
 
 ## historique 
 
-Ce site est issue du travail collectif des membres du groupement d'achat du petit grain à Bordeaux à partir de 2015.
-http://www.yakafaucon.com/le-petit-grain-programme/ le site est accessible ici : http://yakasegrouper.fr (inscription obligatoire mais gratuite) 
+Ce site est issue du travail collectif des membres du groupement d'achat du petit grain à Bordeaux (France) à partir de 2015.
+http://www.yakafaucon.com/le-petit-grain-programme/ . 
+
+Le site est actuellement accessible ici : http://yakasegrouper.fr (inscription obligatoire mais gratuite) 
 
 # Fonctionnalitées 
 
