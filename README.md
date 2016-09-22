@@ -9,6 +9,8 @@ http://www.yakafaucon.com/le-petit-grain-programme/
 
 # Fonctionnalitées 
 
+EN COURS DE REDACTION...
+
 ## inscription
 
 Il est nécessaire de s'identifier pour commander.
