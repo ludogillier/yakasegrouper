@@ -7,28 +7,28 @@ Application web gratuite et open source permettant la reservation en ligne (hors
 Ce site est issue du travail collectif des membres du groupement d'achat du petit grain à Bordeaux à partir de 2015.
 http://www.yakafaucon.com/le-petit-grain-programme/
 
-## Fonctionnalitées 
+# Fonctionnalitées 
 
-# inscription
+## inscription
 
 Il est nécessaire de s'identifier pour commander.
 
-# AJOUT/MODIFICATION/SUPPRESSION DES PRODUCTEURS
+## ajout/modification/suppression des producteurs
 
-# AJOUT/MODIFICATION/SUPPRESSION DES PRODUITS ou ARTICLES
+## ajout/modification/suppression des produits ou articles
 
-# AJOUT/MODIFICATION/SUPPRESSION DES PRODUITS ou ARTICLES
+## ajout/modification/suppression des produits ou articles
 
-# les distributions
+## les distributions
 
 - aide à la distribution : Pour les producteurs, listing de tous les produits à fournir pour les prochaines distributions
 - aide à la distribution : Pour chaque distribution listing des produits par consommateur facilement imprimable. 
 - création des distribution : possibiliter de dupliquer une distribution qui sera datée une semaine plus tard.
 
 
-# les campagnes de distributions
+## les campagnes de distributions
 
-# BON DE COMMANDE PAPIER :
+## bon de commande papier :
 * possibilité de pouvoir imprimer un bon de commande des futurs distributions d'une campagne 
   * affichage du lien sur la page de login
     
