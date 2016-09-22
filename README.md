@@ -38,4 +38,4 @@ Il est nécessaire de s'identifier pour commander.
     
 # License
   
-  Cette application est  MIT license.    
+  Cette application est offerte avec la license MIT.    
