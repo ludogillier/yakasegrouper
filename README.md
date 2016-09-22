@@ -5,7 +5,7 @@ Application web gratuite et open source permettant la reservation en ligne (hors
 ## historique 
 
 Ce site est issue du travail collectif des membres du groupement d'achat du petit grain à Bordeaux à partir de 2015.
-http://www.yakafaucon.com/le-petit-grain-programme/
+http://www.yakafaucon.com/le-petit-grain-programme/ le site est accessible ici : http://yakasegrouper.fr (inscription obligatoire mais gratuite) 
 
 # Fonctionnalitées 
 
