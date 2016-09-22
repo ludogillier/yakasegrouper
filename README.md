@@ -7,8 +7,6 @@ Application web gratuite et open source permettant la reservation en ligne (hors
 Ce site est issue du travail collectif des membres du groupement d'achat du petit grain à Bordeaux à partir de 2015.
 http://www.yakafaucon.com/le-petit-grain-programme/
 
-La parti pris de ce site est d'etre simple a utiliser, de ne pas ressembler au boutiques en ligne en hotant la partie marketing  des interfaces.
-
 ## Fonctionnalitées 
 
 # inscription
@@ -35,3 +33,7 @@ Il est nécessaire de s'identifier pour commander.
   * affichage du lien sur la page de login
     
     
+    
+# License
+  
+  Cette application est  MIT license.    
